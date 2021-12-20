@@ -14,7 +14,7 @@ The 3D models are simple objects with a low poly count to maximize the performan
 
 The project is being made in the open-source program [Blender](https://blender.org).
 
-
+Take a look in updates to see the current issues that need resolving.
 
 If you wish to support the development, having confidence in your 3D skills, you are welcome to request joining the project.
 
