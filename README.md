@@ -20,3 +20,4 @@ If you wish to support the development, having confidence in your 3D skills, you
 
 ### Team
 Squirrel Modeller
+YukiNagatoVR
