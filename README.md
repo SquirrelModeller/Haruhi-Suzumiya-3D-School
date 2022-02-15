@@ -2,6 +2,9 @@
 
 This project is to re-create the high school from the series "Haruhi Suzumiya" - Nishinomiya Kita High School. In doing so all 3D models are 1:1 with the real high school.
 
+![2022-02-15_09-50](https://user-images.githubusercontent.com/87671560/154033731-6e8e5f3b-765d-40a4-a5da-4ac01463dd55.png)
+
+
 Currently the main building of the high school is getting created. Below is an image pulled from Google Maps displaying the real high school which is getting re-created.
 ![image](https://user-images.githubusercontent.com/87671560/127889543-03006f0c-a8f0-46fe-97d0-e2923ad1d51b.png)
 
