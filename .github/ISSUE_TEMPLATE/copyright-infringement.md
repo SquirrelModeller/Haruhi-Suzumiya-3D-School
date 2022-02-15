@@ -7,11 +7,14 @@ assignees: ''
 
 ---
 
-**Show where the copyrighted content is within the project**
-Show with a screenshot or path name of the copyrighted content
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
 
-**Link to the copyrighted materials origin**
-Link to the original licensed copyrighted material
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-**Optimal additional information**
-Ex: What to do, time period until legal action is taken, ect.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
