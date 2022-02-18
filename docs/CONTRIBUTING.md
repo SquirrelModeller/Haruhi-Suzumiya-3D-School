@@ -12,7 +12,7 @@
 
 When a 3D asset is contributed to the project, the right holder of said asset has _**made it under a CC0 1.0 Universal license**_. Therefore also agreeing that _**said assets from hence permanently be under a CC0 1.0 Universal license**_. 
 
-Any breach of a copyrighted asset uploaded or assets being changed to a different license after being submitted _**will have their asset removed and user likewise removed from the project**_
+Any breach of copyrighteded assets being uploaded or assets being changed to a different license after being submitted _**will have their assets removed and user likewise removed from the project**_
 
 
 ### Contributing directly to the project
