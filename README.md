@@ -1,6 +1,6 @@
 ## Haruhi Suzumiya 3D School
 
-This project is to re-create the high school from the anime "The Melancholy of Haruhi Suzumiya School" - Nishinomiya Kita High School. In doing so all 3D models are 1:1 with the real high school.
+This project is to re-create the high school from the anime "The Melancholy of Haruhi Suzumiya" - Nishinomiya Kita High School. In doing so all 3D models are 1:1 with the real high school.
 
 ![2022-02-15_09-50](https://user-images.githubusercontent.com/87671560/154033731-6e8e5f3b-765d-40a4-a5da-4ac01463dd55.png)
 
