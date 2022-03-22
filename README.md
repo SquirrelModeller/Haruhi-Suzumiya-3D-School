@@ -1,6 +1,6 @@
 ## Haruhi Suzumiya 3D School
 
-The re-creation of the high school from the anime "The Melancholy of Haruhi Suzumiya" - Nishinomiya Kita High School. This re-creation is a 1:1 3D model from exterior to interior. See the [wiki](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/wiki) for information about the 3D model, layout and history of the school. The 3D models released free to use for any project, commercial too. Take a look at the [license](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/blob/main/LICENSE) to see what you are allowed to do with the assets.
+The re-creation of the high school from the anime "The Melancholy of Haruhi Suzumiya" (涼宮ハルヒの憂鬱) - Nishinomiya Kita High School. This re-creation is a 1:1 3D model from exterior to interior. See the [wiki](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/wiki) for information about the 3D model, layout and history of the school. The 3D models released free to use for any project, commercial too. Take a look at the [license](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/blob/main/LICENSE) to see what you are allowed to do with the assets.
 
 <img src="https://user-images.githubusercontent.com/87671560/154033731-6e8e5f3b-765d-40a4-a5da-4ac01463dd55.png"/> <br/>
 
@@ -12,7 +12,7 @@ Currently the main building of the high school is getting created. Below is an i
 
 <img align="left" src="https://user-images.githubusercontent.com/87671560/127890561-b7895a56-870a-4121-a7a7-ed3e98cc29a4.png" width="600"/>
 
-### Optimazation
+### Optimization
 The 3D models are simple objects with a low poly count to maximize the performance. By instancing repeating objects like classrooms, windows, hallways etc. the batch calling and usage of VRAM is minimized to increase the performance (FPS, loading times). 
 
 This optimization increases the development time of the project, in order to make sure that the final 3D files released are on a professional standard to which everyone can easily import and use.
