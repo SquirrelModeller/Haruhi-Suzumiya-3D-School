@@ -17,7 +17,7 @@ Any breach of copyrighteded assets being uploaded or assets being changed to a d
 
 ### Contributing directly to the project
 
-The object hierarchy has to be in the following order exampler:
+The object hierarchy has to be in the following order:
 
     MB_Room
       MB_Classroom
