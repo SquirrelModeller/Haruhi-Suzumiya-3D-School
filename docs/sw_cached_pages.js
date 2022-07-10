@@ -5,13 +5,13 @@ const cacheName = 'v1';
 const chacheAssets = [
     'index.html',
     'manifest.json',
-    '/css/style.css',
-    '/scripts/main.js',
-    '/Images/WebsiteBackgrounds/Top Down View.WebP',
-    '/Images/WebsiteBackgrounds/PHS\ Background.WebP',
-    '/Images/WebsiteText/School Comparison 3D Model.WebP',
-    '/Images/WebsiteText/School\ Comparison\ 3D\ Model\ Real.WebP',
-    '/Images/WebsiteLogo/Squirrel Logo 512.WebP'
+    '/Haruhi-Suzumiya-3D-School/css/style.css',
+    '/Haruhi-Suzumiya-3D-School/scripts/main.js',
+    '/Haruhi-Suzumiya-3D-School/Images/WebsiteBackgrounds/Top Down View.WebP',
+    '/Haruhi-Suzumiya-3D-School/Images/WebsiteBackgrounds/PHS\ Background.WebP',
+    '/Haruhi-Suzumiya-3D-School/Images/WebsiteText/School Comparison 3D Model.WebP',
+    '/Haruhi-Suzumiya-3D-School/Images/WebsiteText/School\ Comparison\ 3D\ Model\ Real.WebP',
+    '/Haruhi-Suzumiya-3D-School/Images/WebsiteLogo/Squirrel Logo 512.WebP'
 ];
 
 self.addEventListener('install', (e) => {
