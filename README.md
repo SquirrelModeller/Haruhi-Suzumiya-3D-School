@@ -2,6 +2,8 @@
 
 The re-creation of the high school from the anime "The Melancholy of Haruhi Suzumiya" (涼宮ハルヒの憂鬱) - Nishinomiya Kita High School. This re-creation is a 1:1 3D model from exterior to interior. See the [wiki](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/wiki) for information about the 3D model, layout and history of the school. The 3D models released free to use for any project, commercial too. Take a look at the [license](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/blob/main/LICENSE) to see what you are allowed to do with the assets.
 
+NEW: Join our [Discord](https://discord.gg/NfmmjMPBJj) for updates on the game Yandroid
+
 ![School](https://user-images.githubusercontent.com/87671560/161200465-e0ec91fd-36d3-4e49-b479-9b28eda42c1d.png)
 
 <img align="right" src="https://user-images.githubusercontent.com/87671560/127889543-03006f0c-a8f0-46fe-97d0-e2923ad1d51b.png" width="400"/> <br/>
