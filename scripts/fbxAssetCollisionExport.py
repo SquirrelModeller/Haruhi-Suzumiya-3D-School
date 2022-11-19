@@ -6,7 +6,7 @@
 #   foo                 (collection)
 #     foo_Collision     (collection)
 #       XXX_foo_XX      (object, colission)
-#     foo.fbx           (object, asset)
+#     foo               (object, asset)
 
 # Select "foo" collection and run the script.
 
