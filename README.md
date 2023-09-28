@@ -37,7 +37,5 @@ Take a look in [Projects](https://github.com/users/SquirrelModeller/projects/1) 
 
 If you wish to support the development, having confidence in your 3D skills, you are welcome to request joining the project. In which case, make sure you read the [contributing](https://github.com/SquirrelModeller/Haruhi-Suzumiya-3D-School/blob/main/docs/CONTRIBUTING.md) and agree to the terms.
 
-Join our [Discord](https://discord.gg/NfmmjMPBJj) for updates on the game Yandroid
-
 ### Team
 Squirrel Modeller
